@@ -1,0 +1,14 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "env":{
+    "DB": {
+      "user": "root",
+      "host": "127.0.0.1",
+      "database": "medie",
+      "password": "SokrateS13",
+      "port": 32763
+      }
+    }
+}
